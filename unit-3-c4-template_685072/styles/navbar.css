@@ -1,0 +1,10 @@
+#navbar{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+#search_input{
+    width:200px;
+    height:30px;
+    border-radius: 15px;
+}
